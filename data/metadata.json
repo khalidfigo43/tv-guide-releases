@@ -1,22 +1,22 @@
 {
   "version": "1.0.2",
-  "generatedAt": "2026-09-02 20:33:29",
-  "generatedAtUtc": "2026-09-02T17:33:29Z",
+  "generatedAt": "2026-09-02 21:09:05",
+  "generatedAtUtc": "2026-09-02T18:09:05Z",
   "timezone": "Africa/Cairo",
   "dateRange": {
     "min": "2026-09-02",
-    "max": "2026-09-30",
-    "totalDays": 29
+    "max": "2026-10-01",
+    "totalDays": 30
   },
-  "channelsCount": 185,
-  "broadcastsCount": 40368,
+  "channelsCount": 178,
+  "broadcastsCount": 38407,
   "mergeStats": {
-    "existing_input": 14565,
-    "fresh_input": 41146,
-    "updated": 543,
-    "inserted": 40368,
-    "retained_future": 0,
-    "pruned_past": 14565
+    "existing_input": 40368,
+    "fresh_input": 39552,
+    "updated": 33221,
+    "inserted": 5607,
+    "retained_future": 32800,
+    "pruned_past": 0
   },
   "collectors": {
     "rotana": {
@@ -26,14 +26,14 @@
       "channels_succeeded": 8,
       "broadcasts_count": 3820,
       "min_date": "2026-09-01",
-      "max_date": "2026-09-30"
+      "max_date": "2026-10-01"
     },
     "osn": {
       "name": "OSN",
       "status": "SUCCESS_WITH_FUTURE",
-      "channels_attempted": 100,
-      "channels_succeeded": 100,
-      "broadcasts_count": 32219,
+      "channels_attempted": 93,
+      "channels_succeeded": 93,
+      "broadcasts_count": 30646,
       "min_date": "2026-09-01",
       "max_date": "2026-09-11"
     },
@@ -42,7 +42,7 @@
       "status": "PARTIAL_DATA",
       "channels_attempted": 119,
       "channels_succeeded": 93,
-      "broadcasts_count": 5107,
+      "broadcasts_count": 5086,
       "min_date": "2026-09-02",
       "max_date": "2026-09-06"
     }
