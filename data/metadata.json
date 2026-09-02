@@ -1,0 +1,54 @@
+{
+  "version": "1.0.2",
+  "generatedAt": "2026-09-02 20:33:29",
+  "generatedAtUtc": "2026-09-02T17:33:29Z",
+  "timezone": "Africa/Cairo",
+  "dateRange": {
+    "min": "2026-09-02",
+    "max": "2026-09-30",
+    "totalDays": 29
+  },
+  "channelsCount": 185,
+  "broadcastsCount": 40368,
+  "mergeStats": {
+    "existing_input": 14565,
+    "fresh_input": 41146,
+    "updated": 543,
+    "inserted": 40368,
+    "retained_future": 0,
+    "pruned_past": 14565
+  },
+  "collectors": {
+    "rotana": {
+      "name": "Rotana",
+      "status": "SUCCESS_WITH_FUTURE",
+      "channels_attempted": 8,
+      "channels_succeeded": 8,
+      "broadcasts_count": 3820,
+      "min_date": "2026-09-01",
+      "max_date": "2026-09-30"
+    },
+    "osn": {
+      "name": "OSN",
+      "status": "SUCCESS_WITH_FUTURE",
+      "channels_attempted": 100,
+      "channels_succeeded": 100,
+      "broadcasts_count": 32219,
+      "min_date": "2026-09-01",
+      "max_date": "2026-09-11"
+    },
+    "elcinema": {
+      "name": "ElCinema",
+      "status": "PARTIAL_DATA",
+      "channels_attempted": 119,
+      "channels_succeeded": 93,
+      "broadcasts_count": 5107,
+      "min_date": "2026-09-02",
+      "max_date": "2026-09-06"
+    }
+  },
+  "validation": {
+    "passed": true,
+    "warnings": []
+  }
+}
