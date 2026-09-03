@@ -3,6 +3,6 @@
   "version_name": "1.0.5",
   "apk_url": "https://github.com/khalidfigo43/tv-guide-releases/releases/download/v1.0.5/TVGuide.apk",
   "release_notes": "• تنقية كاملة لفلتر الأفلام وإزالة العروض غير الدرامية والأخبار وقنوات البث 🎬\n• إصلاح ظهور أسماء القنوات بدقة ومنع ظهور كلمة (قناة) فقط 📺\n• ضبط وتصحيح جدول مسلسل هود الليل على قناة الكويت الأولى كحلقات يومية منتظمة 🌟\n• حذف قناتي STV1 HD وقناة البحرين نهائياً 🚫",
-  "is_force_update": true,
+  "is_force_update": false,
   "publish_date": "2026-09-04"
 }
