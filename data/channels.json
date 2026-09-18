@@ -144,7 +144,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9618490566037736,
+    "classificationConfidence": 0.963293172690763,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -218,7 +218,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9599763033175355,
+    "classificationConfidence": 0.9605822784810126,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -513,7 +513,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9693877551020408,
+    "classificationConfidence": 0.9691666666666666,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -550,8 +550,8 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "series",
-    "classificationConfidence": 0.94,
-    "classificationSource": "CHANNEL_METADATA"
+    "classificationConfidence": 0.98,
+    "classificationSource": "CHANNEL_PROFILE_CONSENSUS"
   },
   {
     "category": "general",
@@ -645,7 +645,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9681818181818181,
+    "classificationConfidence": 0.9678125,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -681,9 +681,9 @@
     "source_channel_id": "mbc_iraq",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.5,
-    "classificationSource": "DEFAULT_FALLBACK"
+    "primaryContentType": "series",
+    "classificationConfidence": 0.9438536585365853,
+    "classificationSource": "SCHEDULE_HISTORY"
   },
   {
     "category": "kids",
@@ -938,7 +938,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9450746268656716,
+    "classificationConfidence": 0.9436764705882352,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -1257,8 +1257,8 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.98,
-    "classificationSource": "CHANNEL_PROFILE_CONSENSUS"
+    "classificationConfidence": 0.95,
+    "classificationSource": "CHANNEL_METADATA"
   },
   {
     "category": "news",
@@ -1489,7 +1489,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9668115942028985,
+    "classificationConfidence": 0.9666176470588235,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -1605,7 +1605,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "series",
-    "classificationConfidence": 0.9586567164179104,
+    "classificationConfidence": 0.9780597014925373,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -1634,7 +1634,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "series",
-    "classificationConfidence": 0.9643999999999999,
+    "classificationConfidence": 0.9774,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -1923,9 +1923,9 @@
     "source_channel_id": "art_hekayat",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "movie",
-    "classificationConfidence": 0.9634545454545455,
-    "classificationSource": "SCHEDULE_HISTORY"
+    "primaryContentType": "series",
+    "classificationConfidence": 0.94,
+    "classificationSource": "CHANNEL_METADATA"
   },
   {
     "category": "drama",
@@ -1960,9 +1960,9 @@
     "source_channel_id": "art_hekayat2",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9435087719298245,
-    "classificationSource": "SCHEDULE_HISTORY"
+    "primaryContentType": "series",
+    "classificationConfidence": 0.94,
+    "classificationSource": "CHANNEL_METADATA"
   },
   {
     "category": "movies",
@@ -2145,9 +2145,9 @@
     "source_channel_id": "osn_yahala",
     "is_paid": true,
     "is_encrypted": true,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9654035087719298,
-    "classificationSource": "SCHEDULE_HISTORY"
+    "primaryContentType": "series",
+    "classificationConfidence": 0.98,
+    "classificationSource": "CHANNEL_PROFILE_CONSENSUS"
   },
   {
     "category": "movies",
@@ -2212,7 +2212,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.97025,
+    "classificationConfidence": 0.96375,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -3017,8 +3017,8 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "movie",
-    "classificationConfidence": 0.95,
-    "classificationSource": "CHANNEL_METADATA"
+    "classificationConfidence": 0.98,
+    "classificationSource": "CHANNEL_PROFILE_CONSENSUS"
   },
   {
     "category": "variety",
@@ -3054,7 +3054,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "series",
-    "classificationConfidence": 0.9583333333333333,
+    "classificationConfidence": 0.9727777777777777,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -3202,8 +3202,8 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "series",
-    "classificationConfidence": 0.98,
-    "classificationSource": "CHANNEL_PROFILE_CONSENSUS"
+    "classificationConfidence": 0.94,
+    "classificationSource": "CHANNEL_METADATA"
   },
   {
     "category": "entertainment",
@@ -3276,7 +3276,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9542342342342343,
+    "classificationConfidence": 0.9507207207207207,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -3379,8 +3379,8 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9601694915254237,
-    "classificationSource": "SCHEDULE_HISTORY"
+    "classificationConfidence": 0.5,
+    "classificationSource": "DEFAULT_FALLBACK"
   },
   {
     "category": "general",
@@ -3445,7 +3445,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9452325581395349,
+    "classificationConfidence": 0.9441379310344827,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -3511,7 +3511,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9738095238095238,
+    "classificationConfidence": 0.9725714285714285,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -3790,8 +3790,8 @@
     "source_channel_id": "mbc3",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9478926174496645,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.9449565217391305,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -3973,7 +3973,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9457894736842105,
+    "classificationConfidence": 0.9435087719298245,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -4047,7 +4047,7 @@
     "is_paid": true,
     "is_encrypted": true,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9710344827586207,
+    "classificationConfidence": 0.9713333333333333,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -4230,8 +4230,8 @@
     "source_channel_id": "osn_showcase",
     "is_paid": true,
     "is_encrypted": true,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9651319648093841,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.9792375366568915,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -4267,8 +4267,8 @@
     "source_channel_id": "osn_kids",
     "is_paid": true,
     "is_encrypted": true,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9637967401725791,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.9787535953978906,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -4304,8 +4304,8 @@
     "source_channel_id": "osn_comedy",
     "is_paid": true,
     "is_encrypted": true,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9655555555555555,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.9797373737373737,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -4341,8 +4341,8 @@
     "source_channel_id": "osn_crime",
     "is_paid": true,
     "is_encrypted": true,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9650574712643678,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.98,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -4415,8 +4415,8 @@
     "source_channel_id": "osn_one",
     "is_paid": true,
     "is_encrypted": true,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9603691275167785,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.9734563758389262,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -4772,7 +4772,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9471428571428571,
+    "classificationConfidence": 0.9457142857142857,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -4801,7 +4801,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "movie",
-    "classificationConfidence": 0.9746113989637305,
+    "classificationConfidence": 0.9764864864864865,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -4919,7 +4919,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9777966101694915,
+    "classificationConfidence": 0.9469491525423729,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -4945,8 +4945,8 @@
     "is_paid": true,
     "is_encrypted": true,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9487341772151898,
-    "classificationSource": "SCHEDULE_HISTORY"
+    "classificationConfidence": 0.5,
+    "classificationSource": "DEFAULT_FALLBACK"
   },
   {
     "category": "general",
@@ -5023,7 +5023,7 @@
     "is_paid": true,
     "is_encrypted": true,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9464516129032258,
+    "classificationConfidence": 0.9453333333333334,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5075,7 +5075,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.953103448275862,
+    "classificationConfidence": 0.9475,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5257,7 +5257,7 @@
     "is_paid": true,
     "is_encrypted": true,
     "primaryContentType": "movie",
-    "classificationConfidence": 0.9448648648648649,
+    "classificationConfidence": 0.9694594594594594,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5309,7 +5309,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9526315789473684,
+    "classificationConfidence": 0.9509210526315789,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5361,7 +5361,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "movie",
-    "classificationConfidence": 0.9759055118110236,
+    "classificationConfidence": 0.9431496062992126,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5470,8 +5470,8 @@
     "quality": "HD",
     "is_paid": true,
     "is_encrypted": true,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9609756097560975,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.9728658536585366,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5486,8 +5486,8 @@
     "quality": "HD",
     "is_paid": true,
     "is_encrypted": true,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9666438356164383,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.98,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5518,8 +5518,8 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9656071428571429,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.98,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5551,7 +5551,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "movie",
-    "classificationConfidence": 0.9779144385026738,
+    "classificationConfidence": 0.9518449197860962,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5566,8 +5566,8 @@
     "quality": "HD",
     "is_paid": true,
     "is_encrypted": true,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9660536398467433,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.98,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5630,8 +5630,8 @@
     "quality": "HD",
     "is_paid": true,
     "is_encrypted": true,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9486079545454545,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.9541477272727272,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5647,7 +5647,7 @@
     "is_paid": true,
     "is_encrypted": true,
     "primaryContentType": "movie",
-    "classificationConfidence": 0.9798937908496732,
+    "classificationConfidence": 0.979468954248366,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5726,8 +5726,8 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9613584905660377,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.9657735849056603,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5742,8 +5742,8 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9462595419847328,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.9561832061068702,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5759,7 +5759,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "movie",
-    "classificationConfidence": 0.9779473684210527,
+    "classificationConfidence": 0.9622105263157894,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5774,8 +5774,8 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9661512027491409,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.98,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5790,8 +5790,8 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9656071428571429,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.98,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5806,8 +5806,8 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9645033112582782,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.9789238410596026,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5822,8 +5822,8 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9656929347826086,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.98,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5838,8 +5838,8 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9646472392638037,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.9786042944785276,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5854,8 +5854,8 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9665159574468085,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.98,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5870,8 +5870,8 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9653483606557377,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.98,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5886,8 +5886,8 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9648148148148148,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.98,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5903,8 +5903,8 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.95,
-    "classificationSource": "CHANNEL_METADATA"
+    "classificationConfidence": 0.98,
+    "classificationSource": "CHANNEL_PROFILE_CONSENSUS"
   },
   {
     "category": "general",
@@ -5919,7 +5919,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "movie",
-    "classificationConfidence": 0.9752772466539197,
+    "classificationConfidence": 0.9417208413001912,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5950,8 +5950,8 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "movie",
-    "classificationConfidence": 0.9657,
+    "primaryContentType": "other",
+    "classificationConfidence": 0.9761,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5966,9 +5966,9 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "movie",
-    "classificationConfidence": 0.9678504672897196,
-    "classificationSource": "SCHEDULE_HISTORY"
+    "primaryContentType": "other",
+    "classificationConfidence": 0.5,
+    "classificationSource": "DEFAULT_FALLBACK"
   },
   {
     "category": "general",
@@ -5982,8 +5982,8 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "movie",
-    "classificationConfidence": 0.9532094594594595,
+    "primaryContentType": "other",
+    "classificationConfidence": 0.9764864864864865,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -6014,8 +6014,8 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9659205776173285,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.98,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -6030,8 +6030,8 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9663157894736842,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.98,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -6046,8 +6046,8 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9662251655629139,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.98,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -6062,8 +6062,8 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9653291536050157,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.98,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -6078,8 +6078,8 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9613666666666667,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.9765333333333333,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -6094,8 +6094,8 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9567857142857142,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.9701984126984127,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -6110,8 +6110,8 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "movie",
-    "classificationConfidence": 0.9512025316455696,
+    "primaryContentType": "other",
+    "classificationConfidence": 0.9631329113924051,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -6126,9 +6126,9 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.95,
-    "classificationSource": "CHANNEL_METADATA"
+    "primaryContentType": "series",
+    "classificationConfidence": 0.9660714285714286,
+    "classificationSource": "SCHEDULE_HISTORY"
   },
   {
     "category": "general",
@@ -6142,9 +6142,9 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "movie",
-    "classificationConfidence": 0.9710344827586207,
-    "classificationSource": "SCHEDULE_HISTORY"
+    "primaryContentType": "other",
+    "classificationConfidence": 0.95,
+    "classificationSource": "CHANNEL_METADATA"
   },
   {
     "category": "general",
@@ -6158,9 +6158,9 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "movie",
-    "classificationConfidence": 0.9734177215189873,
-    "classificationSource": "SCHEDULE_HISTORY"
+    "primaryContentType": "other",
+    "classificationConfidence": 0.5,
+    "classificationSource": "DEFAULT_FALLBACK"
   },
   {
     "category": "general",
@@ -6174,8 +6174,8 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "movie",
-    "classificationConfidence": 0.9576344086021505,
+    "primaryContentType": "other",
+    "classificationConfidence": 0.9541397849462365,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -6191,7 +6191,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "movie",
-    "classificationConfidence": 0.98,
+    "classificationConfidence": 0.9789803921568627,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -6222,8 +6222,8 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9653932584269662,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.9795131086142321,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -6239,7 +6239,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "movie",
-    "classificationConfidence": 0.9780811808118081,
+    "classificationConfidence": 0.9670479704797048,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -6254,9 +6254,9 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "movie",
-    "classificationConfidence": 0.965771144278607,
-    "classificationSource": "SCHEDULE_HISTORY"
+    "primaryContentType": "other",
+    "classificationConfidence": 0.98,
+    "classificationSource": "CHANNEL_PROFILE_CONSENSUS"
   },
   {
     "category": "general",
@@ -6270,8 +6270,8 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9496860986547085,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.9625112107623318,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -6287,7 +6287,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "movie",
-    "classificationConfidence": 0.978375,
+    "classificationConfidence": 0.9735,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -6302,9 +6302,9 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "movie",
-    "classificationConfidence": 0.952116991643454,
-    "classificationSource": "SCHEDULE_HISTORY"
+    "primaryContentType": "other",
+    "classificationConfidence": 0.5,
+    "classificationSource": "DEFAULT_FALLBACK"
   },
   {
     "category": "general",
@@ -6319,8 +6319,8 @@
     "is_paid": true,
     "is_encrypted": true,
     "primaryContentType": "series",
-    "classificationConfidence": 0.94,
-    "classificationSource": "CHANNEL_METADATA"
+    "classificationConfidence": 0.98,
+    "classificationSource": "CHANNEL_PROFILE_CONSENSUS"
   },
   {
     "category": "general",
@@ -6334,9 +6334,9 @@
     "quality": "HD",
     "is_paid": false,
     "is_encrypted": false,
-    "primaryContentType": "movie",
-    "classificationConfidence": 0.9722172949002217,
-    "classificationSource": "SCHEDULE_HISTORY"
+    "primaryContentType": "other",
+    "classificationConfidence": 0.5,
+    "classificationSource": "DEFAULT_FALLBACK"
   },
   {
     "category": "general",
@@ -6542,9 +6542,9 @@
     "quality": "HD",
     "is_paid": true,
     "is_encrypted": true,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.5,
-    "classificationSource": "DEFAULT_FALLBACK"
+    "primaryContentType": "series",
+    "classificationConfidence": 0.9605097451274363,
+    "classificationSource": "SCHEDULE_HISTORY"
   },
   {
     "category": "general",
@@ -6558,9 +6558,9 @@
     "quality": "HD",
     "is_paid": true,
     "is_encrypted": true,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.5,
-    "classificationSource": "DEFAULT_FALLBACK"
+    "primaryContentType": "series",
+    "classificationConfidence": 0.9605097451274363,
+    "classificationSource": "SCHEDULE_HISTORY"
   },
   {
     "category": "general",
@@ -6574,8 +6574,8 @@
     "quality": "HD",
     "is_paid": true,
     "is_encrypted": true,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9657534246575342,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.98,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -6590,8 +6590,8 @@
     "quality": "HD",
     "is_paid": true,
     "is_encrypted": true,
-    "primaryContentType": "other",
-    "classificationConfidence": 0.9630240549828178,
+    "primaryContentType": "series",
+    "classificationConfidence": 0.9768728522336769,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
