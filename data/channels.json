@@ -144,7 +144,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9583333333333333,
+    "classificationConfidence": 0.9582122905027932,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -402,7 +402,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9678125,
+    "classificationConfidence": 0.9676190476190476,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -476,7 +476,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9707142857142856,
+    "classificationConfidence": 0.9676842105263158,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -513,7 +513,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9623728813559322,
+    "classificationConfidence": 0.9598275862068966,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -645,7 +645,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9561666666666666,
+    "classificationConfidence": 0.9558139534883721,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -756,8 +756,8 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.5,
-    "classificationSource": "DEFAULT_FALLBACK"
+    "classificationConfidence": 0.9492105263157895,
+    "classificationSource": "SCHEDULE_HISTORY"
   },
   {
     "category": "general",
@@ -785,7 +785,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9524705882352941,
+    "classificationConfidence": 0.9444047619047619,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -822,8 +822,8 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.5,
-    "classificationSource": "DEFAULT_FALLBACK"
+    "classificationConfidence": 0.9492105263157895,
+    "classificationSource": "SCHEDULE_HISTORY"
   },
   {
     "category": "movies",
@@ -938,7 +938,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9673611111111111,
+    "classificationConfidence": 0.9712162162162162,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -967,7 +967,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9564655172413793,
+    "classificationConfidence": 0.9566666666666667,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -1315,7 +1315,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9715217391304347,
+    "classificationConfidence": 0.9714473684210526,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -1373,7 +1373,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9530188679245283,
+    "classificationConfidence": 0.9633720930232558,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -1489,7 +1489,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9655555555555555,
+    "classificationConfidence": 0.9653521126760564,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -1518,7 +1518,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.967,
+    "classificationConfidence": 0.9644776119402985,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -1547,7 +1547,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9632857142857143,
+    "classificationConfidence": 0.9649275362318841,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -2212,7 +2212,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9713333333333333,
+    "classificationConfidence": 0.977111111111111,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -3017,7 +3017,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9742222222222222,
+    "classificationConfidence": 0.98,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -3054,7 +3054,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9606140350877193,
+    "classificationConfidence": 0.9537719298245614,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -3091,7 +3091,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.967906976744186,
+    "classificationConfidence": 0.9707142857142856,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -3128,8 +3128,8 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.5,
-    "classificationSource": "DEFAULT_FALLBACK"
+    "classificationConfidence": 0.94140625,
+    "classificationSource": "SCHEDULE_HISTORY"
   },
   {
     "category": "general",
@@ -3165,7 +3165,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.948411214953271,
+    "classificationConfidence": 0.9493396226415094,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -3239,7 +3239,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9770786516853932,
+    "classificationConfidence": 0.9769767441860465,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -3276,7 +3276,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9711864406779661,
+    "classificationConfidence": 0.9730357142857142,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -3416,7 +3416,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9738679245283018,
+    "classificationConfidence": 0.97375,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -3445,7 +3445,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9785869565217391,
+    "classificationConfidence": 0.9785555555555555,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -3511,7 +3511,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9777966101694915,
+    "classificationConfidence": 0.978859649122807,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -3725,8 +3725,8 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "series",
-    "classificationConfidence": 0.98,
-    "classificationSource": "CHANNEL_PROFILE_CONSENSUS"
+    "classificationConfidence": 0.94,
+    "classificationSource": "CHANNEL_METADATA"
   },
   {
     "category": "movies",
@@ -3973,7 +3973,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.94425,
+    "classificationConfidence": 0.942625,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -4474,7 +4474,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9733673469387755,
+    "classificationConfidence": 0.9723529411764705,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -4503,7 +4503,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "series",
-    "classificationConfidence": 0.9597402597402597,
+    "classificationConfidence": 0.941,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -4532,7 +4532,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9708235294117646,
+    "classificationConfidence": 0.970126582278481,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -4561,7 +4561,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9773469387755102,
+    "classificationConfidence": 0.978375,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -4590,7 +4590,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9580722891566265,
+    "classificationConfidence": 0.9655555555555555,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -4648,7 +4648,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9651898734177216,
+    "classificationConfidence": 0.9678666666666667,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -4677,7 +4677,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9785555555555555,
+    "classificationConfidence": 0.9785227272727273,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -4743,7 +4743,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9772631578947368,
+    "classificationConfidence": 0.9772916666666667,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -4772,7 +4772,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9787,
+    "classificationConfidence": 0.9786868686868687,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -4801,7 +4801,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9419811320754716,
+    "classificationConfidence": 0.9468367346938775,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -4838,7 +4838,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9446739130434783,
+    "classificationConfidence": 0.9483552631578948,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -4867,7 +4867,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9596385542168675,
+    "classificationConfidence": 0.9651898734177216,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -4919,7 +4919,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9612048192771084,
+    "classificationConfidence": 0.9625609756097561,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -4945,8 +4945,8 @@
     "is_paid": true,
     "is_encrypted": true,
     "primaryContentType": "other",
-    "classificationConfidence": 0.946,
-    "classificationSource": "SCHEDULE_HISTORY"
+    "classificationConfidence": 0.5,
+    "classificationSource": "DEFAULT_FALLBACK"
   },
   {
     "category": "general",
@@ -4971,7 +4971,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9516091954022988,
+    "classificationConfidence": 0.9527906976744186,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -4997,7 +4997,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9778333333333333,
+    "classificationConfidence": 0.9777966101694915,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5023,7 +5023,7 @@
     "is_paid": true,
     "is_encrypted": true,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9742222222222222,
+    "classificationConfidence": 0.9769767441860465,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5075,7 +5075,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9786021505376343,
+    "classificationConfidence": 0.9772340425531915,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5101,7 +5101,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9772631578947368,
+    "classificationConfidence": 0.9770114942528736,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5257,7 +5257,7 @@
     "is_paid": true,
     "is_encrypted": true,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9554054054054054,
+    "classificationConfidence": 0.9575,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
@@ -5309,7 +5309,7 @@
     "is_paid": false,
     "is_encrypted": false,
     "primaryContentType": "other",
-    "classificationConfidence": 0.9591999999999999,
+    "classificationConfidence": 0.9543209876543209,
     "classificationSource": "SCHEDULE_HISTORY"
   },
   {
